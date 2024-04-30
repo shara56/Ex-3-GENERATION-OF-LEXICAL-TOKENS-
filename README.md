@@ -167,4 +167,4 @@ int main() {
 ![Screenshot 2024-03-27 092758](https://github.com/Bakkiyalakshmiethiraj/Ex-3-GENERATION-OF-LEXICAL-TOKENS-/assets/144870983/1cdae10b-8f97-401d-a5bd-7b19bd64eb85)
 
 # RESULT
-### The program to implement lexical analyzer is executed and the output is verified.rified.
+### The program to implement lexical analyzer is executed and the output is verified.
